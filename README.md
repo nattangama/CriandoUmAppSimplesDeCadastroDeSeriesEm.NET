@@ -8,10 +8,8 @@ Eliézer Zarpelão
 
 Linkedin:  [br.linkedin.com/in/nattangama](https://www.linkedin.com/in/nattan-gama-05369a192/)
 
-Instagram:  [instagram.com/eliezerzarpelao](https://instagram.com/eliezerzarpelao)
+Instagram:  [instagram.com/nattangama](https://www.instagram.com/nattangama/)
 
-YouTube:  [youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g](https://www.youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g/featured?view_as=subscriber)
+Twitter:  [@enattangama](https://twitter.com/Nattan_Gama)
 
-Twitter:  [@eliezerzarpelao](https://twitter.com/eliezerzarpelao)
-
-Github:  [github.com/elizarp](https://github.com/elizarp)
+Github:  [github.com/NattanGama](https://github.com/NattanGama)
