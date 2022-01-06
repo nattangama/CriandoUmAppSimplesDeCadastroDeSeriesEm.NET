@@ -10,6 +10,6 @@ Linkedin:  [br.linkedin.com/in/nattangama](https://www.linkedin.com/in/nattan-ga
 
 Instagram:  [instagram.com/nattangama](https://www.instagram.com/nattangama/)
 
-Twitter:  [@enattangama](https://twitter.com/Nattan_Gama)
+Twitter:  [@nattangama](https://twitter.com/Nattan_Gama)
 
 Github:  [github.com/NattanGama](https://github.com/NattanGama)
