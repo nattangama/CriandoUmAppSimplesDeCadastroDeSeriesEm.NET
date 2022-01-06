@@ -1,5 +1,4 @@
-# CriandoUmAppSimplesDeCadastroDeSeriesEm.NET 
-# Digital Innovation One - Prática .NET
+# Prática .NET
 
 ## Criando uma APP de cadastro em memória
 
