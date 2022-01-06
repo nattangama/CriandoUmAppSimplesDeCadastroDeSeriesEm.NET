@@ -6,9 +6,7 @@
 
 Eliézer Zarpelão
 
-Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/eliezerzarpelao)
-
-WebSite:  [eliezerzarpelao.eti.br](https://eliezerzarpelao.eti.br)
+Linkedin:  [br.linkedin.com/in/nattangama](https://www.linkedin.com/in/nattan-gama-05369a192/)
 
 Instagram:  [instagram.com/eliezerzarpelao](https://instagram.com/eliezerzarpelao)
 
