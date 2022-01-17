@@ -4,7 +4,7 @@
 
 ## Contato
 
-Eliézer Zarpelão
+Nattan Gama
 
 Linkedin:  [br.linkedin.com/in/nattangama](https://www.linkedin.com/in/nattan-gama-05369a192/)
 
