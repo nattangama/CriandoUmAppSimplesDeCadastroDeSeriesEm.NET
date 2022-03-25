@@ -12,3 +12,4 @@ namespace DIO.Series.Interfaces
         int ProximoId();
     }
 }
+
